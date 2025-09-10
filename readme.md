@@ -1,6 +1,12 @@
 # Very important project
 
-so I won't forget how to build
+lib used sfml
+on ubuntu you ust:
+```
+sudo apt install libsfml-dev
+```
+
+## build
 
 ```
 cmake --list-presets # to see what we have (check CMakePresets.json)
